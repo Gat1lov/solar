@@ -1,0 +1,22 @@
+.submit__input {
+    margin: 0 0 60px;
+    padding-bottom: 11px;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    color: white;
+    font-family: nonosans-regular, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    width: 510px;
+}
+
+.submit__input::placeholder {
+    color: white;
+    font-family: nonosans-regular, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+}

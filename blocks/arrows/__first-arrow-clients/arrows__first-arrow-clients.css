@@ -1,0 +1,17 @@
+.arrows__first-arrow-clients {
+    margin: 32px 20px 0 276px;
+    background-image: url(../../../images/Arrow2.svg);
+    width: 40px;
+    height: 10px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    transition: transform 0.3s;
+}
+
+.arrows__first-arrow-clients:hover {
+    transform: scale(1.5);
+}

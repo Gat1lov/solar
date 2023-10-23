@@ -1,0 +1,6 @@
+.header {
+    background-image: url(../../images/fon.svg);
+    text-align: center;
+    overflow: hidden;
+    min-height: 900px;
+}

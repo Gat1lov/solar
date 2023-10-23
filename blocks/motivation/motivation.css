@@ -1,0 +1,9 @@
+.motivation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../images/Rectangle10.svg);
+    width: 1920px;
+    min-height: 500px;
+    overflow: hidden;
+}

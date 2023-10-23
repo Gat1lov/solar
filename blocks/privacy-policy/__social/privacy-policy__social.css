@@ -1,0 +1,5 @@
+.privacy-policy__social {
+    display: grid;
+    width: 167px;
+    grid-template-columns: repeat(4, 50px)
+}

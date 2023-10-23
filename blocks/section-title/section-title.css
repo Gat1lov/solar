@@ -1,0 +1,12 @@
+.section-title {
+    margin: 0;
+    font-family: nonosans-bold, sans-serif;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+    color: #868585;
+}
+
+.section-title:last-of-type {
+    width: 324px;
+}

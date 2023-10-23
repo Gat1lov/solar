@@ -1,0 +1,18 @@
+.income-block__button-consultation {
+    margin: 0 0 0 91px;
+    background-image: url(../../../images/button-clients.svg);
+    width: 306px;
+    height: 100px;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    transition: transform 0.3s;
+}
+
+.income-block__button-consultation:hover {
+    background-image: url(../../../images/button-clients-hover.svg);
+    transform: scale(1.1);
+}

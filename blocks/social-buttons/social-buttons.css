@@ -1,0 +1,9 @@
+.social-buttons {
+    margin: 250px auto 0;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(4, 30px);
+    column-gap: 20px;
+    justify-content: center;
+    min-height: 30px;
+}

@@ -1,0 +1,7 @@
+.services-pharagraphs__element {
+    margin: 0 0 50px;
+}
+
+.services-pharagraphs__element:last-child {
+    margin: 0;
+}

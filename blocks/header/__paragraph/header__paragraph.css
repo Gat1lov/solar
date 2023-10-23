@@ -1,0 +1,8 @@
+.header__paragraph {
+    margin: 0;
+    font-family: nonosans-regular, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color: white;
+}

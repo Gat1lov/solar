@@ -1,0 +1,15 @@
+.social-button-inst {
+    min-width: 30px;
+    background-image: url(../../images/instagram.svg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    transition: transform 0.3s;
+}
+
+.social-button-inst:hover {
+    transform: scale(1.5);
+}

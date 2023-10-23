@@ -1,0 +1,6 @@
+.info-block__offers {
+    display: grid;
+    grid-template-columns: repeat(2, 235px);
+    row-gap: 19px;
+    column-gap: 40px;
+}

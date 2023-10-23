@@ -1,0 +1,11 @@
+.steps__step {
+    margin: 0 0 30px;
+}
+
+.steps__step:first-of-type {
+    margin-top: 60px;
+}
+
+.steps__step:last-of-type {
+    margin-bottom: 0;
+}
